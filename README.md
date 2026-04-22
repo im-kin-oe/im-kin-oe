@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Kin
+--
+
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge\&logo=scikit-learn)
@@ -15,4 +17,3 @@ I'm a student focused on Machine Learning and AI.I enjoy building real-world pro
 
 Currently exploring: LLMs (Large Language Models, RAG (Retrieval-Augmented Generation) NLP (Natural Language Processing)
 
-⭐️ *Do what you love, and keep building.*
